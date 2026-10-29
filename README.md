@@ -1,2 +1,1 @@
-# MLOPS-
-This is a repositary for ml ops
+hello buddy how are you 
